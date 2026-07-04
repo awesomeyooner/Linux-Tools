@@ -111,5 +111,5 @@ fi
 
 echo "Place this to ~/.local/share/applications using the following:"
 echo ""
-echo "mv $(pwd)/${DESKTOP_FILE}.copy.desktop ~/.local/share/applications && sudo update_desktop-database"
+echo "mv $(pwd)/${DESKTOP_FILE}.copy.desktop ~/.local/share/applications && sudo update-desktop-database"
 echo ""
